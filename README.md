@@ -1,6 +1,6 @@
 # Konfigurasi Apache Web Server HTTPS di Debian 10
 
-Dokumentasi praktik konfigurasi web server Apache2 dengan HTTPS (self-signed certificate menggunakan OpenSSL) di Debian 10, dijalankan di VirtualBox.
+Dokumentasi praktek konfigurasi web server Apache2 dengan HTTPS (self-signed certificate menggunakan OpenSSL) di Debian 10, dijalankan di VirtualBox.
 
 ## Topologi
 - 1 VM Debian 10 sebagai server
